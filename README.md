@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="center">
+  <img src="Ofentse Gail Montsho - GitHub Banner 1.png" alt="My Profile Banner" width="100%">
+</p>
+
 
 <!--
 **OfentseMontsho/OfentseMontsho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
