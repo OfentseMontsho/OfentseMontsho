@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Ofentse Gail Montsho - GitHub Banner 1.png" alt="My Profile Banner" width="100%">
+  <img src="Ofentse Gail Montsho - GitHub Banner 2.png" alt="My Profile Banner" width="100%">
 </p>
 
 
